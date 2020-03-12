@@ -2,8 +2,7 @@
 
 
 public class MinimumReplacementToOne{
-
-    //return the minimum number of flips required to flip to make a or b==c
+//Function that returns minimum number of replacement required to make input as 1
     public static int minimunReplacements(int test)
     {
         int count=0;
